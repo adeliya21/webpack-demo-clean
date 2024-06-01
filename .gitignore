@@ -1,0 +1,10 @@
+# Ignore
+/node_modules
+
+# Ignore everything in dist/ folder
+dist/*
+
+# Don't ignore these files
+!dist/bundle.js
+!dist/index.html
+!bundle.js.LICENSE.txt
